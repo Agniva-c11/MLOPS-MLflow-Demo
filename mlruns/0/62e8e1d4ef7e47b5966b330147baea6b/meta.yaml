@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/62e8e1d4ef7e47b5966b330147baea6b/artifacts
+end_time: 1739729644733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62e8e1d4ef7e47b5966b330147baea6b
+run_name: judicious-cod-108
+run_uuid: 62e8e1d4ef7e47b5966b330147baea6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739729644607
+status: 3
+tags: []
+user_id: user

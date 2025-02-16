@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550932440500809638/765a7cc841684a94a86603bd6a974bec/artifacts
+end_time: 1739736764167
+entry_point_name: ''
+experiment_id: '550932440500809638'
+lifecycle_stage: active
+run_id: 765a7cc841684a94a86603bd6a974bec
+run_name: industrious-stag-543
+run_uuid: 765a7cc841684a94a86603bd6a974bec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739736753529
+status: 4
+tags: []
+user_id: user

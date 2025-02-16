@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/550932440500809638/ccc37de6786c4aacb01f4826fe37b877/artifacts
+end_time: 1739736081137
+entry_point_name: ''
+experiment_id: '550932440500809638'
+lifecycle_stage: active
+run_id: ccc37de6786c4aacb01f4826fe37b877
+run_name: shivering-stoat-860
+run_uuid: ccc37de6786c4aacb01f4826fe37b877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739736081063
+status: 3
+tags: []
+user_id: user
